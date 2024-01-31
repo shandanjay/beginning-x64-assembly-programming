@@ -1,0 +1,40 @@
+repo_name: shandanjay/beginning-x64-assembly-programming
+report_id: d147bfa332b699821719b0ba3de98674
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T14:30:17+00:00'
+requested_by: MarkP88
+provider: github
+branch: master
+detected_tools_count: 3
+tools:
+- name: Assembly Language
+  description: A low-level programming language
+  website_url: https://en.wikipedia.org/wiki/Assembly_language
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4934/default_71f18bbdc61fb88cefb66415bb55dc6f1e60e5ec.png
+  detection_source_url: https://github.com/shandanjay/beginning-x64-assembly-programming
+  detection_source: Repo Metadata
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/shandanjay/beginning-x64-assembly-programming
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/shandanjay/beginning-x64-assembly-programming
+  detection_source: Repo Metadata
